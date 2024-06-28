@@ -9,12 +9,11 @@ let package = Package(
         .iOS(.v13)
     ],
     products: [
-        .library(name: "RemoteCameraLib", targets: ["RemoteCameraLib", "Framework"]),
+        .library(name: "RemoteCameraLib", targets: ["RemoteCameraLib"]),
     ],
     dependencies: [
     ],
     targets: [
-        .target(name: "RemoteCameraLib", dependencies: []),
-        .binaryTarget(name: "Framework", path: "Release/RemoteCameraLib.xcframework")
+        .binaryTarget(name: "RemoteCameraLib", path: "Release/RemoteCameraLib.xcframework")
     ]
 )
