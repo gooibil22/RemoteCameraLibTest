@@ -123,7 +123,7 @@ public enum RTPStreamerSRTPCipherType : Swift.Int32 {
 @_hasMissingDesignatedInitializers public class RemoteCameraApi {
   public static var share: RemoteCameraLib.RemoteCameraApi?
   public static func initialize(completion: (Swift.Bool) -> Swift.Void)
-  public func startCameraPreview(_ vc: UIKit.UIViewController, _ lensFacing: Swift.Int, _ host: Swift.String, _ port: Swift.UInt16, completion: (Swift.Bool, Swift.String) -> Swift.Void)
+  public func startCameraPreview(_ vc: UIKit.UIViewController, _ viewId: Swift.String, _ lensFacing: Swift.Int, _ host: Swift.String, _ port: Swift.UInt16, completion: (Swift.Bool, Swift.String) -> Swift.Void)
   public func stopCameraPreview(completion: (Swift.Bool) -> Swift.Void)
   public func changeLensFacing()
   public func terminate(completion: (Swift.Bool) -> Swift.Void)

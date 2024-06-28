@@ -3003,7 +3003,7 @@
           {
             "kind": "Function",
             "name": "startCameraPreview",
-            "printedName": "startCameraPreview(_:_:_:_:completion:)",
+            "printedName": "startCameraPreview(_:_:_:_:_:completion:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3015,6 +3015,12 @@
                 "name": "UIViewController",
                 "printedName": "UIKit.UIViewController",
                 "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
               },
               {
                 "kind": "TypeNominal",
@@ -3070,8 +3076,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15RemoteCameraLib0aB3ApiC05startB7Preview____10completionySo16UIViewControllerC_SiSSs6UInt16VySb_SStXEtF",
-            "mangledName": "$s15RemoteCameraLib0aB3ApiC05startB7Preview____10completionySo16UIViewControllerC_SiSSs6UInt16VySb_SStXEtF",
+            "usr": "s:15RemoteCameraLib0aB3ApiC05startB7Preview_____10completionySo16UIViewControllerC_SSSiSSs6UInt16VySb_SStXEtF",
+            "mangledName": "$s15RemoteCameraLib0aB3ApiC05startB7Preview_____10completionySo16UIViewControllerC_SSSiSSs6UInt16VySb_SStXEtF",
             "moduleName": "RemoteCameraLib",
             "declAttributes": [
               "AccessControl"
@@ -16150,14 +16156,14 @@
     {
       "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService.swift",
       "kind": "IntegerLiteral",
-      "offset": 8526,
+      "offset": 8523,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService.swift",
       "kind": "IntegerLiteral",
-      "offset": 9008,
+      "offset": 9005,
       "length": 1,
       "value": "1"
     },
@@ -16318,56 +16324,56 @@
     {
       "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService2.swift",
       "kind": "BooleanLiteral",
-      "offset": 488,
+      "offset": 538,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService2.swift",
       "kind": "BooleanLiteral",
-      "offset": 530,
+      "offset": 580,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService2.swift",
       "kind": "BooleanLiteral",
-      "offset": 670,
+      "offset": 720,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService2.swift",
       "kind": "BooleanLiteral",
-      "offset": 712,
+      "offset": 762,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService2.swift",
       "kind": "BooleanLiteral",
-      "offset": 791,
+      "offset": 841,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService2.swift",
       "kind": "BooleanLiteral",
-      "offset": 834,
+      "offset": 884,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService2.swift",
       "kind": "IntegerLiteral",
-      "offset": 3799,
+      "offset": 4560,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService2.swift",
       "kind": "IntegerLiteral",
-      "offset": 4281,
+      "offset": 5042,
       "length": 1,
       "value": "1"
     },
