@@ -1,0 +1,6 @@
+framework module RemoteCameraLib {
+  umbrella header "RemoteCameraLib.h"
+  export *
+
+  module * { export * }
+}
