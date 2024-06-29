@@ -5982,8 +5982,8 @@
         "children": [
           {
             "kind": "Var",
-            "name": "mIsFront",
-            "printedName": "mIsFront",
+            "name": "isFrontCamera",
+            "printedName": "isFrontCamera",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -5993,8 +5993,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15RemoteCameraLib0cB14ViewControllerC8mIsFrontSbvp",
-            "mangledName": "$s15RemoteCameraLib0cB14ViewControllerC8mIsFrontSbvp",
+            "usr": "s:15RemoteCameraLib0cB14ViewControllerC07isFrontB0Sbvp",
+            "mangledName": "$s15RemoteCameraLib0cB14ViewControllerC07isFrontB0Sbvp",
             "moduleName": "RemoteCameraLib",
             "isOpen": true,
             "declAttributes": [
@@ -6018,8 +6018,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15RemoteCameraLib0cB14ViewControllerC8mIsFrontSbvg",
-                "mangledName": "$s15RemoteCameraLib0cB14ViewControllerC8mIsFrontSbvg",
+                "usr": "s:15RemoteCameraLib0cB14ViewControllerC07isFrontB0Sbvg",
+                "mangledName": "$s15RemoteCameraLib0cB14ViewControllerC07isFrontB0Sbvg",
                 "moduleName": "RemoteCameraLib",
                 "implicit": true,
                 "isOpen": true,
@@ -6043,8 +6043,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15RemoteCameraLib0cB14ViewControllerC8mIsFrontSbvs",
-                "mangledName": "$s15RemoteCameraLib0cB14ViewControllerC8mIsFrontSbvs",
+                "usr": "s:15RemoteCameraLib0cB14ViewControllerC07isFrontB0Sbvs",
+                "mangledName": "$s15RemoteCameraLib0cB14ViewControllerC07isFrontB0Sbvs",
                 "moduleName": "RemoteCameraLib",
                 "implicit": true,
                 "isOpen": true,
@@ -6062,8 +6062,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15RemoteCameraLib0cB14ViewControllerC8mIsFrontSbvM",
-                "mangledName": "$s15RemoteCameraLib0cB14ViewControllerC8mIsFrontSbvM",
+                "usr": "s:15RemoteCameraLib0cB14ViewControllerC07isFrontB0SbvM",
+                "mangledName": "$s15RemoteCameraLib0cB14ViewControllerC07isFrontB0SbvM",
                 "moduleName": "RemoteCameraLib",
                 "implicit": true,
                 "isOpen": true,
@@ -15146,2247 +15146,2247 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 150,
       "length": 4,
       "value": "1920"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 193,
       "length": 4,
       "value": "1080"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 240,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 286,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 323,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 364,
       "length": 2,
       "value": "50"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 401,
       "length": 2,
       "value": "90"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 436,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 470,
       "length": 3,
       "value": "100"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 513,
       "length": 4,
       "value": "7500"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 553,
       "length": 4,
       "value": "2300"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 593,
       "length": 5,
       "value": "10000"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 753,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 787,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 791,
       "length": 4,
       "value": "1024"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 798,
       "length": 4,
       "value": "1024"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 1065,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 1108,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 1147,
       "length": 5,
       "value": "44100"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 1193,
       "length": 2,
       "value": "64"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 1198,
       "length": 4,
       "value": "1024"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraConfig.swift",
       "kind": "Array",
       "offset": 1242,
       "length": 285,
       "value": "[0x01, 0x23, 0x45, 0x67, 0x89, 0x01, 0x23, 0x45, 0x67, 0x89, 0x01, 0x23, 0x45, 0x67, 0x89, 0x01, 0x23, 0x45, 0x67, 0x89, 0x01, 0x23, 0x45, 0x67, 0x89, 0x01, 0x23, 0x45, 0x67, 0x89]"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
       "kind": "IntegerLiteral",
       "offset": 260,
       "length": 5,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
       "kind": "IntegerLiteral",
       "offset": 279,
       "length": 7,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
       "kind": "IntegerLiteral",
       "offset": 300,
       "length": 5,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
       "kind": "IntegerLiteral",
       "offset": 319,
       "length": 4,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
       "kind": "IntegerLiteral",
       "offset": 337,
       "length": 5,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
       "kind": "IntegerLiteral",
       "offset": 260,
       "length": 5,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
       "kind": "IntegerLiteral",
       "offset": 279,
       "length": 7,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
       "kind": "IntegerLiteral",
       "offset": 300,
       "length": 5,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
       "kind": "IntegerLiteral",
       "offset": 319,
       "length": 4,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
       "kind": "IntegerLiteral",
       "offset": 337,
       "length": 5,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
       "kind": "IntegerLiteral",
       "offset": 260,
       "length": 5,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
       "kind": "IntegerLiteral",
       "offset": 279,
       "length": 7,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
       "kind": "IntegerLiteral",
       "offset": 300,
       "length": 5,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
       "kind": "IntegerLiteral",
       "offset": 319,
       "length": 4,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamer.swift",
       "kind": "IntegerLiteral",
       "offset": 337,
       "length": 5,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/Media\/MTVideoInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/Media\/MTVideoInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 156,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/Media\/MTVideoInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/Media\/MTVideoInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 170,
       "length": 5,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/Media\/MTVideoInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/Media\/MTVideoInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 156,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/Media\/MTVideoInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/Media\/MTVideoInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 170,
       "length": 5,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/Media\/MTVideoInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/Media\/MTVideoInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 750,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/Media\/MTVideoInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/Media\/MTVideoInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 775,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/Media\/MTVideoInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/Media\/MTVideoInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 801,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/Media\/MTVideoInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/Media\/MTVideoInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 830,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/Media\/MTVideoInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/Media\/MTVideoInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 857,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/Media\/MTVideoInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/Media\/MTVideoInfo.swift",
       "kind": "StringLiteral",
       "offset": 923,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/Media\/MTVideoInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/Media\/MTVideoInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 959,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Utils\/Log.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Utils\/Log.swift",
       "kind": "IntegerLiteral",
       "offset": 666,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Utils\/Log.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Utils\/Log.swift",
       "kind": "IntegerLiteral",
       "offset": 684,
       "length": 6,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Utils\/Log.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Utils\/Log.swift",
       "kind": "IntegerLiteral",
       "offset": 704,
       "length": 5,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Utils\/Log.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Utils\/Log.swift",
       "kind": "IntegerLiteral",
       "offset": 723,
       "length": 5,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Utils\/Log.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Utils\/Log.swift",
       "kind": "IntegerLiteral",
       "offset": 666,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Utils\/Log.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Utils\/Log.swift",
       "kind": "IntegerLiteral",
       "offset": 684,
       "length": 6,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Utils\/Log.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Utils\/Log.swift",
       "kind": "IntegerLiteral",
       "offset": 704,
       "length": 5,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Utils\/Log.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Utils\/Log.swift",
       "kind": "IntegerLiteral",
       "offset": 723,
       "length": 5,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 246,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 283,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 545,
       "length": 4,
       "value": "1920"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 573,
       "length": 4,
       "value": "1080"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 604,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 631,
       "length": 6,
       "value": "200000"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 670,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 776,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 878,
       "length": 5,
       "value": "44100"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 911,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 937,
       "length": 2,
       "value": "64"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 942,
       "length": 4,
       "value": "1024"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 1047,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 1100,
       "length": 10,
       "value": "1356955624"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 1206,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 1241,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Utils\/MasterKeyFactory.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Utils\/MasterKeyFactory.swift",
       "kind": "IntegerLiteral",
       "offset": 527,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Utils\/MasterKeyFactory.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Utils\/MasterKeyFactory.swift",
       "kind": "IntegerLiteral",
       "offset": 568,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Utils\/MasterKeyFactory.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Utils\/MasterKeyFactory.swift",
       "kind": "IntegerLiteral",
       "offset": 611,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
       "kind": "BooleanLiteral",
       "offset": 925,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
       "kind": "IntegerLiteral",
       "offset": 958,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
       "kind": "IntegerLiteral",
       "offset": 989,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
       "kind": "BooleanLiteral",
       "offset": 1244,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
       "kind": "StringLiteral",
       "offset": 1270,
       "length": 51,
       "value": "\"change TV orientation mode \""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
       "kind": "StringLiteral",
       "offset": 1320,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
       "kind": "BooleanLiteral",
       "offset": 1474,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
       "kind": "BooleanLiteral",
       "offset": 1561,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
       "kind": "Array",
       "offset": 2499,
       "length": 24,
       "value": "[0x00, 0x00, 0x00, 0x01]"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
       "kind": "IntegerLiteral",
       "offset": 2555,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
       "kind": "IntegerLiteral",
       "offset": 2588,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
       "kind": "IntegerLiteral",
       "offset": 2964,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
       "kind": "IntegerLiteral",
       "offset": 2997,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
       "kind": "BooleanLiteral",
       "offset": 3050,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
       "kind": "StringLiteral",
       "offset": 3076,
       "length": 34,
       "value": "\"change Screen mode \""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
       "kind": "StringLiteral",
       "offset": 3109,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/VideoEncoder.swift",
       "kind": "StringLiteral",
       "offset": 501,
       "length": 12,
       "value": "\"RemoteCameraLib.VideoEncoder\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 169,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 180,
       "length": 5,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 195,
       "length": 2,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 169,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 180,
       "length": 5,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 195,
       "length": 2,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 169,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 180,
       "length": 5,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 195,
       "length": 2,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 536,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 547,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 561,
       "length": 6,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 577,
       "length": 6,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 536,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 547,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 561,
       "length": 6,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 577,
       "length": 6,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 536,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 547,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 561,
       "length": 6,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 577,
       "length": 6,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 714,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 725,
       "length": 12,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 747,
       "length": 12,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 714,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 725,
       "length": 12,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 747,
       "length": 12,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 714,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 725,
       "length": 12,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 747,
       "length": 12,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 892,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 903,
       "length": 11,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 924,
       "length": 11,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 945,
       "length": 11,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 966,
       "length": 11,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 892,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 903,
       "length": 11,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 924,
       "length": 11,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 945,
       "length": 11,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 966,
       "length": 11,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 892,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 903,
       "length": 11,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 924,
       "length": 11,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 945,
       "length": 11,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreamerType.swift",
       "kind": "IntegerLiteral",
       "offset": 966,
       "length": 11,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTP\/MTRTPSecurity.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTP\/MTRTPSecurity.swift",
       "kind": "IntegerLiteral",
       "offset": 305,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraService.swift",
       "kind": "BooleanLiteral",
       "offset": 1230,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraService.swift",
       "kind": "BooleanLiteral",
       "offset": 1272,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraService.swift",
       "kind": "BooleanLiteral",
       "offset": 1412,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraService.swift",
       "kind": "BooleanLiteral",
       "offset": 1454,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraService.swift",
       "kind": "BooleanLiteral",
       "offset": 1533,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraService.swift",
       "kind": "BooleanLiteral",
       "offset": 1576,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraService.swift",
       "kind": "IntegerLiteral",
       "offset": 8523,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraService.swift",
       "kind": "IntegerLiteral",
       "offset": 9005,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraService.swift",
       "kind": "StringLiteral",
       "offset": 820,
       "length": 13,
       "value": "\"RemoteCameraLib.CameraService\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/RemoteCameraApi.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/RemoteCameraApi.swift",
       "kind": "StringLiteral",
       "offset": 338,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/RemoteCameraApi.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/RemoteCameraApi.swift",
       "kind": "IntegerLiteral",
       "offset": 362,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraError.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraError.swift",
       "kind": "IntegerLiteral",
       "offset": 190,
       "length": 16,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraError.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraError.swift",
       "kind": "IntegerLiteral",
       "offset": 216,
       "length": 14,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraError.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraError.swift",
       "kind": "IntegerLiteral",
       "offset": 240,
       "length": 18,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraError.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraError.swift",
       "kind": "IntegerLiteral",
       "offset": 190,
       "length": 16,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraError.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraError.swift",
       "kind": "IntegerLiteral",
       "offset": 216,
       "length": 14,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraError.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraError.swift",
       "kind": "IntegerLiteral",
       "offset": 240,
       "length": 18,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/Media\/MTAudioInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/Media\/MTAudioInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 156,
       "length": 3,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/Media\/MTAudioInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/Media\/MTAudioInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 156,
       "length": 3,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/Media\/MTAudioInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/Media\/MTAudioInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 640,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/Media\/MTAudioInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/Media\/MTAudioInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 669,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/Media\/MTAudioInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/Media\/MTAudioInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 701,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/Media\/MTAudioInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/Media\/MTAudioInfo.swift",
       "kind": "StringLiteral",
       "offset": 767,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/Media\/MTAudioInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/Media\/MTAudioInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 803,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraApi.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraApi.swift",
       "kind": "IntegerLiteral",
       "offset": 431,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraApi.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraApi.swift",
       "kind": "IntegerLiteral",
       "offset": 463,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraApi.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraApi.swift",
       "kind": "StringLiteral",
       "offset": 559,
       "length": 21,
       "value": "\"KEY_CAMERA_POSITION\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraApi.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraApi.swift",
       "kind": "StringLiteral",
       "offset": 637,
       "length": 27,
       "value": "\"KEY_PREVIEW_VIDEO_GRAVITY\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraApi.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraApi.swift",
       "kind": "StringLiteral",
       "offset": 725,
       "length": 31,
       "value": "\"KEY_IS_SUPPORT_LANDSCAPE_MODE\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraApi.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraApi.swift",
       "kind": "BooleanLiteral",
       "offset": 925,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService2.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraService2.swift",
       "kind": "BooleanLiteral",
       "offset": 538,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService2.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraService2.swift",
       "kind": "BooleanLiteral",
       "offset": 580,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService2.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraService2.swift",
       "kind": "BooleanLiteral",
       "offset": 720,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService2.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraService2.swift",
       "kind": "BooleanLiteral",
       "offset": 762,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService2.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraService2.swift",
       "kind": "BooleanLiteral",
       "offset": 841,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService2.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraService2.swift",
       "kind": "BooleanLiteral",
       "offset": 884,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService2.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraService2.swift",
       "kind": "IntegerLiteral",
       "offset": 4560,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService2.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraService2.swift",
       "kind": "IntegerLiteral",
       "offset": 5042,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraService2.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraService2.swift",
       "kind": "StringLiteral",
       "offset": 111,
       "length": 14,
       "value": "\"RemoteCameraLib.CameraService2\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/AudioEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/AudioEncoder.swift",
       "kind": "IntegerLiteral",
       "offset": 539,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/AudioEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/AudioEncoder.swift",
       "kind": "IntegerLiteral",
       "offset": 718,
       "length": 5,
       "value": "44100"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/AudioEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/AudioEncoder.swift",
       "kind": "IntegerLiteral",
       "offset": 775,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/AudioEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/AudioEncoder.swift",
       "kind": "IntegerLiteral",
       "offset": 825,
       "length": 2,
       "value": "64"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/AudioEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/AudioEncoder.swift",
       "kind": "IntegerLiteral",
       "offset": 830,
       "length": 4,
       "value": "1024"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/AudioEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/AudioEncoder.swift",
       "kind": "IntegerLiteral",
       "offset": 883,
       "length": 2,
       "value": "32"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/AudioEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/AudioEncoder.swift",
       "kind": "IntegerLiteral",
       "offset": 888,
       "length": 4,
       "value": "1024"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Encoder\/AudioEncoder.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Encoder\/AudioEncoder.swift",
       "kind": "BooleanLiteral",
       "offset": 1102,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreaming.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreaming.swift",
       "kind": "StringLiteral",
       "offset": 273,
       "length": 19,
       "value": "\"videoSendingQueue\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreaming.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreaming.swift",
       "kind": "StringLiteral",
       "offset": 372,
       "length": 19,
       "value": "\"audioSendingQueue\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreaming.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreaming.swift",
       "kind": "IntegerLiteral",
       "offset": 473,
       "length": 10,
       "value": "30000000"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreaming.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreaming.swift",
       "kind": "BooleanLiteral",
       "offset": 547,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreaming.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreaming.swift",
       "kind": "BooleanLiteral",
       "offset": 592,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreaming.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreaming.swift",
       "kind": "IntegerLiteral",
       "offset": 637,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/RTPStreaming.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/RTPStreaming.swift",
       "kind": "IntegerLiteral",
       "offset": 678,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraDevice.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraDevice.swift",
       "kind": "StringLiteral",
       "offset": 1620,
       "length": 22,
       "value": "\"videoDataOutputQueue\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraDevice.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraDevice.swift",
       "kind": "StringLiteral",
       "offset": 1704,
       "length": 22,
       "value": "\"audioDataOutputQueue\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraDevice.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraDevice.swift",
       "kind": "BooleanLiteral",
       "offset": 1756,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/CameraDevice.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/CameraDevice.swift",
       "kind": "BooleanLiteral",
       "offset": 1788,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/Media\/MTMediaInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/Media\/MTMediaInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 152,
       "length": 5,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/Media\/MTMediaInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/Media\/MTMediaInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 167,
       "length": 2,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/Media\/MTMediaInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/Media\/MTMediaInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 152,
       "length": 5,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/Media\/MTMediaInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/Media\/MTMediaInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 167,
       "length": 2,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/Media\/MTMediaInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/Media\/MTMediaInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 152,
       "length": 5,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Transfer\/Media\/MTMediaInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Transfer\/Media\/MTMediaInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 167,
       "length": 2,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/LibCameraViewController.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/LibCameraViewController.swift",
       "kind": "StringLiteral",
       "offset": 682,
       "length": 15,
       "value": "\"sesison.queue\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/LibCameraViewController.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/LibCameraViewController.swift",
       "kind": "StringLiteral",
       "offset": 747,
       "length": 20,
       "value": "\"video.output.queue\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/LibCameraViewController.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/LibCameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1002,
-      "length": 32,
-      "value": "\"[didSet] mIsFront: \""
+      "offset": 966,
+      "length": 42,
+      "value": "\"[didSet] isFrontCamera: \""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/LibCameraViewController.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/LibCameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1033,
+      "offset": 1007,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/LibCameraViewController.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/LibCameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 926,
+      "offset": 890,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/LibCameraViewController.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/LibCameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1193,
+      "offset": 1167,
       "length": 67,
       "value": "\"[didSet] mOrientation: \""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Camera\/LibCameraViewController.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Camera\/LibCameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1259,
+      "offset": 1233,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 196,
       "length": 16,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 222,
       "length": 10,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 242,
       "length": 6,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 258,
       "length": 10,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 278,
       "length": 12,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 300,
       "length": 8,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 196,
       "length": 16,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 222,
       "length": 10,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 242,
       "length": 6,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 258,
       "length": 10,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 278,
       "length": 12,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 300,
       "length": 8,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 375,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 393,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 375,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 393,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 480,
       "length": 12,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 502,
       "length": 16,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 480,
       "length": 12,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 502,
       "length": 16,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 594,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 614,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 594,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 614,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 700,
       "length": 6,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 728,
       "length": 4,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 755,
       "length": 10,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 775,
       "length": 10,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 795,
       "length": 10,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 815,
       "length": 11,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 836,
       "length": 13,
       "value": "7"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 859,
       "length": 13,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 882,
       "length": 14,
       "value": "9"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 700,
       "length": 6,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 728,
       "length": 4,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 755,
       "length": 10,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 775,
       "length": 10,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 795,
       "length": 10,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 815,
       "length": 11,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 836,
       "length": 13,
       "value": "7"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 859,
       "length": 13,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastCamera\/LGCastCameraProperties.swift",
       "kind": "IntegerLiteral",
       "offset": 882,
       "length": 14,
       "value": "9"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 364,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 403,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 506,
       "length": 5,
       "value": "44100"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 547,
       "length": 2,
       "value": "64"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 552,
       "length": 4,
       "value": "1024"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 596,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 694,
       "length": 4,
       "value": "1920"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 733,
       "length": 4,
       "value": "1080"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "BooleanLiteral",
       "offset": 781,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 824,
       "length": 2,
       "value": "60"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 862,
       "length": 1,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 866,
       "length": 4,
       "value": "1024"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 873,
       "length": 4,
       "value": "1024"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 1309,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 1349,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 1386,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "StringLiteral",
       "offset": 1434,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 1574,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 1824,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 1889,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 1958,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 2038,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 2119,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 2162,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 2199,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "StringLiteral",
       "offset": 2250,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "BooleanLiteral",
       "offset": 2296,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "StringLiteral",
       "offset": 2348,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 2533,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 2628,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 2664,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "BooleanLiteral",
       "offset": 2709,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "StringLiteral",
       "offset": 2760,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 2800,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 2839,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 3366,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 3402,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 3439,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 3561,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Interface\/LGCastInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 3600,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "StringLiteral",
       "offset": 179,
       "length": 19,
       "value": "\"KEY_USE_PC_PLAYER\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "BooleanLiteral",
       "offset": 214,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "StringLiteral",
       "offset": 299,
       "length": 16,
       "value": "\"KEY_VIDEO_TYPE\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "StringLiteral",
       "offset": 432,
       "length": 16,
       "value": "\"KEY_AUDIO_TYPE\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "StringLiteral",
       "offset": 564,
       "length": 17,
       "value": "\"KEY_ENABLE_SRTP\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "BooleanLiteral",
       "offset": 597,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "StringLiteral",
       "offset": 680,
       "length": 19,
       "value": "\"KEY_PC_IP_ADDRESS\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "StringLiteral",
       "offset": 715,
       "length": 13,
       "value": "\"192.168.1.1\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "StringLiteral",
       "offset": 810,
       "length": 19,
       "value": "\"KEY_PC_VIDEO_PORT\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "IntegerLiteral",
       "offset": 845,
       "length": 4,
       "value": "5000"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "StringLiteral",
       "offset": 928,
       "length": 19,
       "value": "\"KEY_PC_AUDIO_PORT\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "IntegerLiteral",
       "offset": 963,
       "length": 4,
       "value": "5002"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "StringLiteral",
       "offset": 1046,
       "length": 18,
       "value": "\"KEY_TV_DEVICE_ID\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "StringLiteral",
       "offset": 1080,
       "length": 9,
       "value": "\"Unknown\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "StringLiteral",
       "offset": 1171,
       "length": 26,
       "value": "\"KEY_IS_RUNNING_EXTENSION\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "BooleanLiteral",
       "offset": 1213,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "StringLiteral",
       "offset": 1305,
       "length": 19,
       "value": "\"KEY_VIDEO_BITRATE\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "IntegerLiteral",
       "offset": 1340,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "StringLiteral",
       "offset": 1421,
       "length": 22,
       "value": "\"KEY_VIDEO_RESOLUTION\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "IntegerLiteral",
       "offset": 1459,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "StringLiteral",
       "offset": 1549,
       "length": 28,
       "value": "\"KEY_VIDEO_RESOLUTION_WITDH\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "IntegerLiteral",
       "offset": 1593,
       "length": 4,
       "value": "1920"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "StringLiteral",
       "offset": 1688,
       "length": 29,
       "value": "\"KEY_VIDEO_RESOLUTION_HEIGHT\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "IntegerLiteral",
       "offset": 1733,
       "length": 4,
       "value": "1080"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "StringLiteral",
       "offset": 1821,
       "length": 19,
       "value": "\"KEY_AUDIO_BITRATE\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "IntegerLiteral",
       "offset": 1856,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "StringLiteral",
       "offset": 1945,
       "length": 21,
       "value": "\"KEY_ENABLE_RIVISION\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "BooleanLiteral",
       "offset": 1982,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "StringLiteral",
       "offset": 2078,
       "length": 26,
       "value": "\"KEY_VIDEO_IFRAME_LATENCY\""
     },
     {
-      "filePath": "\/Users\/9toy\/work\/Test\/TestRemoteCameraLib\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
+      "filePath": "\/Users\/9toy\/work\/RemoteCameraLibRelease\/RemoteCameraLib\/Common\/Preference\/UserDefaults+LGCast.swift",
       "kind": "IntegerLiteral",
       "offset": 2120,
       "length": 1,

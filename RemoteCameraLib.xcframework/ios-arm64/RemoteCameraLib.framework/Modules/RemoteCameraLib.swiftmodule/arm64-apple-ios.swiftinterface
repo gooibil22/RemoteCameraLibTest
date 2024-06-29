@@ -227,7 +227,7 @@ public enum MTMediaType : Swift.Int32 {
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class LibCameraViewController : UIKit.UIViewController, AVFoundation.AVCaptureVideoDataOutputSampleBufferDelegate {
-  @_Concurrency.MainActor(unsafe) open var mIsFront: Swift.Bool {
+  @_Concurrency.MainActor(unsafe) open var isFrontCamera: Swift.Bool {
     get
     set
   }
